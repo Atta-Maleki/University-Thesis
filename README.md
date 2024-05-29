@@ -6,3 +6,6 @@ In the field of Alzheimer's disease detection, Convolutional Neural Networks (CN
 
 -----------
 Keywords: Convolutional Neural Network, Quantum Gates, Unitary Matrices, Vanishing and Exploding Gradients, Alzheimer’s disease, MRI
+
+
+![Uploading Architecture1_croped.jpg…]()
